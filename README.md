@@ -14,4 +14,6 @@ This project is an image editing application built using Python and the Tkinter 
 
 ## To Install the required Libraries
 
-- pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
