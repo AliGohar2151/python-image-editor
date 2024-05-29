@@ -39,7 +39,7 @@ def imageAdjestment(imgname):
 
 # Reset Image
 def resetImage():
-    global image_name, initial_operation
+    global image_name, initial_operation, orignalimage
     imageAdjestment(image_name)
 
 
