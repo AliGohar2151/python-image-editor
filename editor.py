@@ -15,7 +15,7 @@ label = None
 orignalimage = None
 image_name = None
 initial_operation = 1
-outputImage = None  # Initialize outputImage variable
+outputImage = None
 
 
 # Upload Image
