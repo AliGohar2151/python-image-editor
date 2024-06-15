@@ -11,9 +11,3 @@ This project is an image editing application built using Python and the Tkinter 
 - **Filters**: Apply grayscale, sepia, vivid, and custom filters.
 - **Transformations**: Rotate, flip horizontally and vertically.
 - **Special Effects**: Emboss, edge enhancement, and background blur.
-
-## To Install the required Libraries
-
-```
-pip install -r requirements.txt
-```
